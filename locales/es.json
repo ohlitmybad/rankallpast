@@ -185,7 +185,7 @@
     "all": "Jugadores"
   },
   "player_comparison": {
-    "title": "vs {league} {suffix} {position}s",
+    "title": "vs {position} {suffix} de {league}",
     "per90": ", por 90"
   },
   "hover": {
